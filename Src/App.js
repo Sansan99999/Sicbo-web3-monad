@@ -5,7 +5,7 @@ import BetPanel from "./components/BetPanel";
 import Leaderboard from "./components/Leaderboard";
 import DiceAnimation from "./components/DiceAnimation";
 
-const CONTRACT_ADDRESS = "0xYourContractAddress"; // Ganti dengan alamat di Remix
+const CONTRACT_ADDRESS = "0xb5ae1b76d28e48a6eed2dd9801da9803494b0ece"; // Ganti dengan alamat di Remix
 
 function App() {
   const [result, setResult] = useState(null);
